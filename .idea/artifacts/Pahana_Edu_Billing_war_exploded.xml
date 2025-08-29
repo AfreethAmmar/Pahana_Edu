@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Pahana_Edu_Billing:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pahana_Edu_Billing_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Pahana_Edu_Billing" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.mysql:mysql-connector-j:8.0.33" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Pahana_Edu_Billing/web/Web" />
+    </root>
+  </artifact>
+</component>
